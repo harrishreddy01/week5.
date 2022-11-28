@@ -1,0 +1,7 @@
+Project JSON Response as "Message":HelloWorld
+
+To start djnago project in the server use the following command in ubuntu: "python manage.py runserver"
+	
+Use any browser: "http://localhost:8080/hello/"
+It display the following output in browser when you select raw
+{"Message":"HelloWorld"}
